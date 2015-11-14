@@ -1,0 +1,24 @@
+{
+  "name": "backbone-jest-mock",
+  "version": "1.0.1",
+  "description": "Backbone mock for testing with Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest || exit(1)"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arvitaly/backbone-jest-mock.git"
+  },
+  "keywords": [
+    "backbone",
+    "jest",
+    "mock"
+  ],
+  "author": "arvitaly",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arvitaly/backbone-jest-mock/issues"
+  },
+  "homepage": "https://github.com/arvitaly/backbone-jest-mock#readme"
+}
