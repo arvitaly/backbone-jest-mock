@@ -1,6 +1,6 @@
 {
   "name": "backbone-jest-mock",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Backbone mock for testing with Jest",
   "main": "index.js",
   "scripts": {

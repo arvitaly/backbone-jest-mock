@@ -9,12 +9,14 @@ declare module BackboneJestMock {
         get: jest.Mock<any>;
         set: jest.Mock<any>;
         on: jest.Mock<any>;
+        off: jest.Mock<any>;
         toJSON: jest.Mock<any>;
     }
     interface Model {
         get: jest.Mock<any>;
         set: jest.Mock<any>;
         on: jest.Mock<any>;
+        off: jest.Mock<any>;
         toJSON: jest.Mock<any>;
     }
 }
